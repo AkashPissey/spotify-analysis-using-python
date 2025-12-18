@@ -24,18 +24,6 @@ This project analyzes Spotify music data to uncover trends in **album types, tra
 
 ---
 
-## 📂 Repository Structure
-
-```
-spotify-analysis-using-python/
-│
-├── Spotify_Analysis.ipynb   # Main analysis notebook
-├── README.md               # Project documentation (this file)
-└── data/                   # (Optional) Dataset files if added later
-```
-
----
-
 ## 🔍 Key Questions Answered
 
 1. What is the distribution of tracks across different album types (Album, Single, Compilation)?
